@@ -8,6 +8,15 @@
   
   Queremos analisar o passo-a-passo de acesso no mapeamento direto (assim como foi visto em aula feito a mão). Ou seja, enxergar qual posição está sendo disputada nesse mapeamento e como é realizada a troca. Ainda, queremos analisar a quantidade de hits (acertos) e misses (falhas) de acordo com as posições solicitadas pelo processador.
 
-  ## Resumo apresentado 
+  ### Resumo apresentado 
   ![image](https://github.com/Lohine/Memoria-Cache/assets/91105011/91ef7ef0-3be4-4442-bdf6-ac370f8417b5)
+<br> 
+  
+ ## Mapeamento Associativo por Conjunto
+  
+  O mesmo foi feito para o mapeamento associativo por conjunto. O usuário poderá escolher o tamanho do conjunto (1 bloco – totalmente associativo ; 2 blocos ; 4 blocos ; 8 blocos ; 16 blocos). O usuário poderá escolher entre as técnicas de substituição LRU, LFU  e FIFO.
+![image](https://github.com/Lohine/Memoria-Cache/assets/91105011/e25d6124-54dd-4911-94c5-ae7257d344ee)
+  <br>
+![image](https://github.com/Lohine/Memoria-Cache/assets/91105011/d168cb2e-1bfe-4a5c-9630-33330d89ae26)
 
+</div>
